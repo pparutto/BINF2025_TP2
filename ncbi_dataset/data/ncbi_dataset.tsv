@@ -1,0 +1,13 @@
+Accession	Begin	End	Chromosome	Orientation	Name	Symbol	Gene ID	Gene Type	Transcripts accession	Transcript name	Protein accession	Protein name	Protein length	Locus tag
+NC_001401.2	287	4451		plus	uncharacterized gene		4192010	other						AAV2gs01
+NC_001401.2	321	2252		plus	Rep 68 protein		4192013	protein-coding			YP_680422.1	Rep 68 protein	536	AAV2gp01
+NC_001401.2	321	2186		plus	Rep 78 protein		1489608	protein-coding			YP_680423.1	Rep 78 protein	621	AAV2gp02
+NC_001401.2	878	4451		plus	uncharacterized gene		4192011	other						AAV2gs02
+NC_001401.2	993	2252		plus	Rep 40 protein		4192014	protein-coding			YP_680424.1	Rep 40 protein	312	AAV2gp03
+NC_001401.2	993	2186		plus	Rep 52 protein		1489607	protein-coding			YP_680425.1	Rep 52 protein	397	AAV2gp04
+NC_001401.2	1853	4451		plus	uncharacterized gene		4192012	other						AAV2gs03
+NC_001401.2	2203	4410		plus	major coat protein VP1		4192017	protein-coding			YP_680426.1	major coat protein VP1	735	AAV2gp05
+NC_001401.2	2614	4410		plus	major coat protein VP2		4192015	protein-coding			YP_680427.1	major coat protein VP2	598
+NC_001401.2	2614	4410		plus	major coat protein VP2		4192015	protein-coding			YP_004030758.1	assembly activating protein AAP	204	AAV2gp06
+NC_001401.2	2809	4410		plus	major coat protein VP3		4192016	protein-coding			YP_680428.1	major coat protein VP3	533	AAV2gp07
+NC_001401.2	3929	4396		plus	X protein	X gene	22318903	protein-coding			YP_009110690.1	X protein	155	AAV2gp08
